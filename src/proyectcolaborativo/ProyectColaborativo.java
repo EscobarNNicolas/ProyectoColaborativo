@@ -11,6 +11,7 @@ public class ProyectColaborativo {
         System.out.println("Hola mundo");
         System.out.println("Bienvenido");
         System.out.println("***************************");
+        System.out.println("esta es una prueba");
     }
     
 }
