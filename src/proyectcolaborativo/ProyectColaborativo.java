@@ -12,7 +12,6 @@ public class ProyectColaborativo {
         // TODO code application logic here
         System.out.println("Hola mundo");
         System.out.println("Bienvenido");
-        System.out.println("Adelante!!!");
     }
     
 }
