@@ -3,7 +3,7 @@ package proyectcolaborativo;
 
 /**
  *
- * @author adminNIES
+ * @author william
  */
 public class ProyectColaborativo {
 
