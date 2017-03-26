@@ -1,11 +1,10 @@
 
 package proyectcolaborativo;
-
 import java.util.Scanner;
 
 /**
  *
- * @author william
+ * @author Willian, Nicolas
  */
 public class ProyectColaborativo {
 
@@ -38,7 +37,7 @@ public class ProyectColaborativo {
         System.out.println("La nota 3 es " +nota3); 
         System.out.println("la nota final es "+(nota1+nota2+nota3));
         System.out.println("********************gracias*******************");
-        System.out.println("******************** cruel mundo******************* " );
+        
         
     }
     
