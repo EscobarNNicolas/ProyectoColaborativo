@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author william Rosales
+ * @author William Rosales, Nicolas Escobar
  */
 public class ProyectColaborativo {
 
