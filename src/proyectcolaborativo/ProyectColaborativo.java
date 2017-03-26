@@ -14,7 +14,7 @@ public class ProyectColaborativo {
         System.out.println("Bienvenido");
         System.out.println("modificado por william!!!");
         System.out.println("otra mensaje :)");
-        
+        int i=1;
     }
     
 }
