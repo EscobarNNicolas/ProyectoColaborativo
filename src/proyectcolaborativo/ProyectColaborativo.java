@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author william
+ * @author william Rosales
  */
 public class ProyectColaborativo {
 
