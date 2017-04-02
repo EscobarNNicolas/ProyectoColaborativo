@@ -37,8 +37,7 @@ public class ProyectColaborativo {
         System.out.println("La nota 3 es " +nota3); 
         System.out.println("la nota final es "+(nota1+nota2+nota3));
         System.out.println("********************gracias*******************");
-        
-        
+        System.out.println("Desde aca pueden agregar sus comentarios para verificar si han podido aportar en el proyecto");
     }
     
 }
