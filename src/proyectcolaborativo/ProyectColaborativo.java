@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author William Rosales, Nicolas Escobar
+ * @author William Rosales, Nicolas Escobar, Daniel Angel
  */
 public class ProyectColaborativo {
 
@@ -18,6 +18,7 @@ public class ProyectColaborativo {
         double nota2;
         double nota3;
         Scanner leer = new Scanner(System.in);
+        System.out.println("Pude att. viridisthepirate");
         System.out.println("Ingrese la nota del parcial 1");
         par1 = leer.nextDouble();
         System.out.println("Ingrese la nota del parcial 2");
