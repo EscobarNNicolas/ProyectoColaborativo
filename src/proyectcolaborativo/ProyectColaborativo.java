@@ -17,6 +17,7 @@ public class ProyectColaborativo {
         double nota1;
         double nota2;
         double nota3;
+        //hola soy daniel
         Scanner leer = new Scanner(System.in);
         System.out.println("Pude att. viridisthepirate :D");
         System.out.println("Ingrese la nota del parcial 1");
